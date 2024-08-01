@@ -49,6 +49,3 @@ This is a full-stack web application for a book store built using the MERN stack
 - Express.js
 - React.js
 - Node.js
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
