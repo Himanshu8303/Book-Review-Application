@@ -12,7 +12,7 @@ This is a full-stack web application for a book store built using the MERN stack
 ## Installation
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/yourusername/book-store.git
+    git clone https://github.com/Himanshu8303/Book-Review-Application.git
     ```
 
 2. Navigate to the project directory:
@@ -27,32 +27,18 @@ This is a full-stack web application for a book store built using the MERN stack
     npm install
     ```
 
-4. Create a `.env` file in the root directory of the project:
-
-    ```
-    PORT=3000
-    mongoDBURL=your_mongodb_url
-    ```
-
-    Replace `your_mongodb_url` with the URL of your MongoDB database.
-
-5. Change the axios url in `frontend/src/pages`
-    
-    ```https://book-store-b8k4.onrender.com``` replace this with ```http://localhost:3000``` in all files in ```frontend/src/pages ```
-
-
-5. Start the server:
+4. Start the server:
     ```
     npm run dev
     ```
 
-6. Start the client:
+5. Start the client:
     ```
     cd frontend
     npm run dev
     ```
 
-7. Open your browser and navigate to `http://localhost:5173` to view the application.
+6. Open your browser and navigate to `http://localhost:5173` to view the application.
 
 ## Usage
 - As a user, you can browse through the collection of books , view detailed descriptions of each book, and aslo review them.
@@ -65,7 +51,7 @@ This is a full-stack web application for a book store built using the MERN stack
 - Node.js
 
 ## Contributors
-- [atharvkhardekar](https://github.com/atharvkhardekar)
+- [atharvkhardekar](https://github.com/Himanshu8303)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
