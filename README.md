@@ -50,8 +50,5 @@ This is a full-stack web application for a book store built using the MERN stack
 - React.js
 - Node.js
 
-## Contributors
-- [Himanshu](https://github.com/Himanshu8303)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
